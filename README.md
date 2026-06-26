@@ -1,10 +1,5 @@
-# Projeto de TCC
+TCC GeoMapaLink
 
-Tese: A INCLUSÃO ESCOLAR DE ESTUDANTES COM 
-DEFICIÊNCIA EM SITUAÇÃO DE 
-VULNERABILIDADE SOCIAL.
-
-Proposta: Fazer uma PWA para facilitar os acessos aos polos indicados. 
-
-
-Alunos: Giovanna de Oliveira Valero, Maria Luisa de Paula Santos e Maria Luiza Mendes Rodrigues. 
+Giovanna de Oliveira Valero: gdovalero@gmail.com</br>
+Maria Luisa de Paula Santos: maluworkq@gmail.com </br>
+Maria Luiza Mendes Rodrigues: malumendesrodrigues13@gmail.com </br>
